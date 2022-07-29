@@ -1,5 +1,5 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# IOT MAILBOX FOR GMAIL
+In the digital age, people naturally grows more reliant on technological advancements. Mail is no exception to this: Emails are a hundred times more common and convenient. My project will attempt to combine features of physical and digital mail.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
