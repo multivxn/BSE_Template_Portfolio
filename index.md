@@ -16,7 +16,9 @@ For my final milestone, I made modifications to my project.
 # Second Milestone
 For my second milestone, I set up the databases necessary for my mailbox to function. I used Adafruit IO to process the emails, and Zapier to get them. The Adafruit is the code linked to the mailbox, while Zapier sends emails to Adafruit to process. I realized that Zapier doesn't support GMAIL functionality anymore.
 
-[![Third Milestone](<iframe width="560" height="315" src="https://www.youtube.com/embed/UQyfDAMf2Ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)](https://www.youtube.com/watch?v=UQyfDAMf2Ms "Second Milestone"){:target="_blank" rel="noopener"}
+[!(https://www.youtube.com/watch?v=UQyfDAMf2Ms "Second Milestone")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UQyfDAMf2Ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # First Milestone
   
 My first milestone was setting up and hooking up the MyServo feature and the ESP36 and all the necessary components. One of the mailboxes main features is the flag, which turns when the mailbox opens, which indicates a new email. To make sure the flag will turn, the MyServo is a gear that has to be tested. I made it so that the code in the arduino will spin the MyServo.
