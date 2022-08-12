@@ -9,14 +9,14 @@ The IOT Mailbox combines the digital age and the past, when sending mail were co
   
 # Final Milestone
 
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+For my final milestone, I made modifications to my project.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 For my second milestone, I set up the databases necessary for my mailbox to function. I used Adafruit IO to process the emails, and Zapier to get them. The Adafruit is the code linked to the mailbox, while Zapier sends emails to Adafruit to process. I realized that Zapier doesn't support GMAIL functionality anymore.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=UQyfDAMf2Ms "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](<iframe width="560" height="315" src="https://www.youtube.com/embed/UQyfDAMf2Ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)](https://www.youtube.com/watch?v=UQyfDAMf2Ms "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 My first milestone was setting up and hooking up the MyServo feature and the ESP36 and all the necessary components. One of the mailboxes main features is the flag, which turns when the mailbox opens, which indicates a new email. To make sure the flag will turn, the MyServo is a gear that has to be tested. I made it so that the code in the arduino will spin the MyServo.
