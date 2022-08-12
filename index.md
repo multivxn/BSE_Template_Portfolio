@@ -22,4 +22,4 @@ For my second milestone, I set up the databases necessary for my mailbox to func
   
 My first milestone was setting up and hooking up the MyServo feature and the ESP36 and all the necessary components. One of the mailboxes main features is the flag, which turns when the mailbox opens, which indicates a new email. To make sure the flag will turn, the MyServo is a gear that has to be tested. I made it so that the code in the arduino will spin the MyServo.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gsgMSzhTmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
