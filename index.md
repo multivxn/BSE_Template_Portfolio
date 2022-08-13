@@ -11,9 +11,9 @@ The IOT Mailbox combines the digital age and the past, when sending mail were co
 
 # Final Milestone
 
-For my final milestone, I made modifications to my project.
+For my final milestone, I made modifications to my project. I added an LCD screen to the mailbox, which allows users to see how much mail has been processed since last checked.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9yXk9BYkvz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
 For my second milestone, I set up the databases necessary for my mailbox to function. I used Adafruit IO to process the emails, and Zapier to get them. The Adafruit is the code linked to the mailbox, while Zapier sends emails to Adafruit to process. I realized that Zapier doesn't support GMAIL functionality anymore.
